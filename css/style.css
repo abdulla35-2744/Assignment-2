@@ -1,0 +1,103 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+		font-family: 'Roboto', sans-serif;
+		background:url(../image/bg.jpg);
+		background-size: cover;
+
+
+
+}
+
+.container {
+	width: 650px;
+	margin: 10% auto;
+
+
+}
+
+.login-section{
+	background: blue;
+	padding: 30px;
+
+}
+
+.loging-section {
+    background: #ab9c9c;
+    padding: 30px;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
+
+img {}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+}
+
+form {
+    /* width: 95%; */
+    /* height: 10px; */
+    /* padding: 5px; */
+    /* margin-bottom: 10px; */
+}
+
+input.form-control {
+    width: 95%;
+    height: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+input.submit-btn {
+    display: block;
+    margin: 0px auto;
+    background: #80806f;
+    color: #ff3b00ed;
+    padding: 8px 22px;
+    border: sienna;
+    text-transform: uppercase;
+}
+
+.singup-section {
+    /* margin: 0px auto; */
+    /* display: block; */
+}
+
+h4 {
+    text-align: center;
+    /* color: white; */
+    font-size: 35px;
+    margin: 10px 0px;
+    text-transform: uppercase;
+}
+
+input.form-control {
+    width: 100%;
+    height: 35px;
+    padding: 6px;
+    margin-bottom: 16px;
+}
+
+input.submit-btn {
+    display: block;
+    margin: 0px auto;
+    background: darkblue;
+    color: yellow;
+    border: sienna;
+    text-transform: uppercase;
+}
+
+.singup-section {
+    background-color: #73738c;
+}
